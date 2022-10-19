@@ -1,11 +1,11 @@
 <template>
-    <div>头部</div>
+    <div>头部测试</div>
 </template>
-    
+
 <script setup lang='ts'>
 import { ref, reactive } from 'vue'
 </script>
-    
+
 <style scoped lang='less'>
 
 </style>
